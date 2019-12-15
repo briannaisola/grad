@@ -1,12 +1,9 @@
 # Welcome Graduate Admissions!
-I believe that science is half work, half communication. Without the ability to share ideas and results, the breadth of scientific knowledge would be a lot smaller today.
 
-Scientific communication can be as simple as writing clean code, to the more obvious ways such as papers and presinations.
+This repository is home to a number of supplements in addition to my general graduate admissions applications. This includes a full lab paper and computational analysis, and the PDF of my presented poster at the centennial AGU conference.
 
-Aside from the personal statement, most graduate applications leave little room to show a aspiring scientist's ability to co
+Scientifc communication comes in many forms. It can be as simple as writing clean code, to the more obvious ways such as papers and presinations. Without communication in science, we would be decades behind in what we know today. I hope that the supplements presented here can depcit my ability to communicate science in various ways and help promote me to docotral candicacy. thed f
 
-Thank you  For the fall of 2019, I have set up a special repository for my graduate admissions process. Here you can find many samples of my work, including a samples of code and academic writing. 
- 
 
 This data was taken...
 ## Document Summary
