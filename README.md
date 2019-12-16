@@ -2,6 +2,8 @@
 
 Thank you for visiting my GitHub. This repository is tailored to graduate admissions, and contains a writing sample, code sample, and poster sample. 
 
+I have also included my general resume in the event that an application does not accept one.
+
 ## Document Summary
 **HAT-P-23B Transit Analysis**
 
