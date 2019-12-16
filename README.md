@@ -15,5 +15,5 @@ This folder contains the poster I presented at the centennial American Geophysic
 
 ##
 
-Scientifc communication comes in many forms. It can be as simple as writing clean code, to the more obvious ways such as papers and presinations. Without communication in science, we would be decades behind in what we know today. I hope that the supplements presented here can depcit my ability to communicate science in various ways and help promote me as a potential graduate student. Thank you again for taking the time to look at my supplements, and I look forward to hearing from your university soon.
+Scientifc communication comes in many forms. It can be as simple as writing clean code, to the more obvious ways such as papers and presinations. Without communication in science, we would be decades behind in what we know today. I hope that the supplements presented here depicts my ability to communicate science in various ways and help to promote me as a potential graduate student at your university. Thank you again for taking the time to look at my supplements, and I look forward to hearing from you soon.
 
