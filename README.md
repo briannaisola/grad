@@ -1,4 +1,4 @@
-# Welcome Graduate Admissions
+# Welcome!
 
 Thank you for visiting my GitHub. This repository is tailored to graduate admissions and fellowship programs, which contains a writing sample, code sample, and poster sample. 
 
