@@ -13,7 +13,7 @@ If you would like to run this code on your own machine, I have included the file
 
 **AGU Poster**
 
-This folder contains the poster I presented at the centennial American Geophysical Union conference during the week of Dec. 9th, 2019. Not only did I present, but I also compreted for an OSPA: Outstanding Student Presintation Award. Still waiting for the results.
+This folder contains the poster I presented at the centennial American Geophysical Union conference during the week of Dec. 9th, 2019. Not only did I present, but I also comppeted for an OSPA: Outstanding Student Presintation Award. I am still waiting for the results.
 
 ##
 
