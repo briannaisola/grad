@@ -1,6 +1,6 @@
 # Welcome!
 
-Thank you for visiting my GitHub. This repository is tailored to graduate admissions and fellowship programs, which contains a writing sample, code sample, and poster sample. 
+Thank you for visiting my GitHub. This repository is contains a writing sample, code sample, and poster sample, intended to help with job prospects. 
 
 I have also included my general resume in the event that an application does not accept one.
 
