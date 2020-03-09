@@ -13,8 +13,7 @@ If you would like to run this code on your own machine, I have included the file
 
 **AGU Poster**
 
-This folder contains the poster I presented at the centennial American Geophysical Union conference during the week of Dec. 9th, 2019. Not only did I present, but I also comppeted for an OSPA: Outstanding Student Presintation Award. I am still waiting for the results.
-
+This folder contains the poster I presented at the centennial American Geophysical Union conference during the week of Dec. 9th, 2019. My research involved solar active regions and magnetic reconnection. I performed computational analysis on HMI data and utilized non-linear force free field models of the coronal magnetic field. Check out the poster to learn more! :)
 ##
 
 Scientifc communication comes in many forms. It can be as simple as writing clean code, to the more obvious ways such as papers and presinations. Without communication in science, we would be decades behind in what we know today. I hope that my suplements in this repository help depict my ability to communicate effectivley through different mediums. Thank you again for taking the time to look at my supplements, and I look forward to hearing from you soon.
